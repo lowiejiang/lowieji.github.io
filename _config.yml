@@ -1,3 +1,17 @@
-name: Laurie
+title: Laurie
+description: >- # this means to ignore newlines until "baseurl:"
+  Laurie Jiang - personal site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.lauriej.ca" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: python
+    css_class: 'highlight'
+theme: minima
+plugins:
+  - jekyll-feed
+highlighter: rouge
+include: ["_posts"]
