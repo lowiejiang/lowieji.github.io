@@ -7,7 +7,7 @@ title: Laurie
 
 <img class="profile-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQEgSOlG31NJYw/profile-displayphoto-shrink_400_400/0?e=1610582400&v=beta&t=YXMnBKfG9VT2PsXOKMOHI0Fc1yrO2TwRTKsTKm8wFew">
 
-I graduated with a degree in [Chemical Engineering](http://chbe.ubc.ca) from UBC Vancouver ([BASc '18](https://www.ubc.ca/)).I’m currently a Business Process Consultant in Toronto's [Financial District.](https://en.wikipedia.org/wiki/Financial_District,_Toronto). My hobbies include:
+I graduated with a degree in [Chemical Engineering](http://chbe.ubc.ca) from UBC Vancouver ([BASc '18](https://www.ubc.ca/)).I’m currently a Business Process Consultant in Toronto's [Financial District](https://en.wikipedia.org/wiki/Financial_District,_Toronto). My hobbies include:
 - writing [good (enough-ish) code](https://github.com/lowiejiang)
 - drinking excessive volumes of caffeine. 
 I also enjoy: 
