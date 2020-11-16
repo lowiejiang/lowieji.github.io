@@ -20,7 +20,7 @@ I also enjoy:
 - binge-watching Netflix on a regular basis. 
 
 My more productive hobbies include: 
-- reading culture articles (My favorites are [TNQ](https://tnq.ca/issues/) and [Monocle](https://monocle.com/))
+- reading culture articles (My favorites are [Monocle Minute](https://monocle.com/minute/), [Cereal](https://readcereal.com/),and [TNQ](https://tnq.ca/issues/))
 - weighted jump rope skipping
 - yoga
 - hiking (sometimes)
