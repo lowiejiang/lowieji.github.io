@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Laurie's Blog</title>
+	<link href="http://lowiejiang.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://lowiejiang.github.io/blog"/>
+	<updated>2020-12-02T20:11:16-05:00</updated>
+	<id>http://hankquinlan.github.io/blog</id>
+	<author>
+		<name>Hank Quinlan</name>
+		<email>hankquinlanhub@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Laurie Jiang Launches Site</title>
+			<link href="http://lowiejiang.github.io/2020/11/11/laurie-jiang-site-launched.html"/>
+			<updated>2020-11-11T00:00:00-05:00</updated>
+			<id>http://hankquinlan.github.io/2020/11/11/laurie-jiang-site-launched</id>
+			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>

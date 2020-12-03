@@ -1,0 +1,125 @@
+@import url(syntax.css);
+
+body a {
+	text-decoration: none !important;
+}
+
+h1{
+	font-size: 2em;
+}
+
+h2{
+	font-size: 1.5em;
+}
+
+h3{
+	font-size: 1.35em;
+}
+
+.project-authors{
+	color: #222;
+	font-size: 0.8em;
+	text-decoration: underline;
+}
+
+.project-title{
+	font-size: 1.2em;
+}
+
+.project-description{
+	font-size: 0.9em;
+	color: #222;
+}
+
+.project-url{
+	font-size: 0.8em;
+}
+
+.nav hr{
+	margin-top: 0;
+}
+
+.nav ul li:nth-child(n+2):before {
+	content: "/ ";
+}
+.nav ul li {
+	display: inline;	
+}
+.nav ul li a {
+	color: #888;
+}
+
+.siang {
+	color: #111 !important;
+	font-size: 2em;
+	font-weight: 600;
+}
+
+.footer{
+	color: #bbb;
+	font-size: 0.8em;
+} 
+
+.footer a{
+	color: #777;
+} 
+
+.footer hr{
+	margin-bottom: 0.5em;
+}
+
+.blog-posts ul li{
+	list-style-type: none;
+	font-size: 1.5em;
+}
+
+.blog-posts .post-title{
+	color: #222;
+}
+
+.blog-posts .post-date{
+	color: #ccc;
+	font-size: 0.8em;
+}
+
+.profile-pic{
+	float: right;
+	width: 200px;
+	max-width: 50%;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.blog-header-date{
+	margin-bottom: 0;
+	font-size: 0.9em;
+	color: #ccc;
+}
+
+
+figure
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+figcaption{
+	font-style: italic;
+}
+
+.small-image img{
+	max-width: 10%;
+}
+
+.medium-image img{
+	max-width: 50%;
+}
+
+.large-image img{
+	max-width: 90%;
+}
+
+.portfolio-thumbnail {
+	max-width: 100%;
+}
